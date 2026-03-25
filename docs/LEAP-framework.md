@@ -48,15 +48,16 @@ The problem is: what problem is worth solving, for whom, and why now?
 
 Most teams skip LEARN. They start with a solution idea and work backwards to justify it. Or they do "discovery" — which means talking to five users about a feature they've already decided to build.
 
-LEARN forces ranking before research. Every opportunity is scored by **TAP — Total Addressable Pain:**
+LEARN forces ranking before research. Every opportunity is scored using a **rationalisation framework** — the system is framework-agnostic. Teams choose what fits their context:
 
-**TAP = Reach × Frequency × Intensity**
+- **TAP** (Total Addressable Pain) — Reach × Frequency × Intensity. Pain-first scoring.
+- **ICE** (Impact, Confidence, Ease) — Balanced effort-to-impact ratio.
+- **RICE** (Reach, Impact, Confidence, Effort) — Intercom's quantitative model.
+- **7 Powers** (Helmer) — Strategic defensibility lens.
+- **Compound Prioritisation** — Relationship stage × releases over features × CX KPIs.
+- **Custom** — Any framework the team configures via the `apply-framework` skill.
 
-- **Reach:** % of segment affected (sourced, not guessed)
-- **Frequency:** daily > weekly > monthly > rare
-- **Intensity:** abandon > frustrate > annoy > notice
-
-TAP, not TAM. Pain drives behavior change. Revenue projections don't.
+The default is a composite of pain severity, strategic fit, and evidence strength. The point is not which framework you use — the point is that you rank before you research. Comparison before commitment.
 
 Then the **Customer Relationship Hierarchy** filters what gets worked on next:
 
@@ -68,7 +69,7 @@ A team once pitched me a beautiful recommendation engine. I asked: "What relatio
 
 ### What LEARN produces:
 - **strategy.md** — Narrative, Outcome (metric + baseline + target), Customer Relationship Stage, Guardrails, Target Opportunity
-- **opportunity-map.md** — TAP-scored, evidence-tagged, living document
+- **opportunity-map.md** — Scored, evidence-tagged, living document
 
 ### How AI executes LEARN:
 Three agents analyze the same problem space in parallel — Strategist (market lens), Researcher (user lens), Analyst (systems lens). A synthesis agent merges their perspectives. The PM gets a multi-perspective strategy document in minutes that would take a cross-functional team days. The PM's job: critique it, challenge the scoring, and decide which opportunity to pursue.
@@ -221,7 +222,7 @@ Context flows downward: L1 → L2 → L3 → L4 → Node. Learnings propagate up
 ## What to Do Monday Morning
 
 1. Pick one goal. Write it as a metric with a baseline and a target.
-2. Map three opportunities by TAP. Pick the highest-pain one.
+2. Map three opportunities. Score each using your chosen framework. Pick the highest-scored one.
 3. Generate three solutions. Pre-mortem each in 30 minutes.
 4. Build a Scout bet. Define the hypothesis and the kill criteria.
 5. Resolve it by Friday.
