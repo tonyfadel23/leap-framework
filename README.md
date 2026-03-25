@@ -88,6 +88,20 @@ A team resolving 15 bets with evidence will outperform a team shipping 50 featur
 
 ---
 
+## Visual Assets
+
+Framework diagrams available in Figma (dark theme, Inter font, export-ready):
+
+**[View in Figma →](https://www.figma.com/design/dfcxDKx2DUVFysFbp4zGpS/LEAP)**
+
+- **LEAP Loop Diagram** — Three stages + PROVE evaluation layer + loop + Ship exit
+- **Customer Relationship Hierarchy** — 5-level pyramid (Functional → Loved)
+- **Bet Sizing Spectrum** — Scout / Sprint / Campaign / Moonshot cards
+
+SVG versions also available in the [`visuals/`](visuals/) directory.
+
+---
+
 ## Quick Start
 
 1. Pick one goal. Write it as a metric: baseline → target → deadline.
