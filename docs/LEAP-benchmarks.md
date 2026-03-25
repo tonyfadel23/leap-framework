@@ -29,7 +29,7 @@ A kill rate of zero means nobody is testing assumptions — they are shipping fe
 | **15–29%** | Cautious but learning. Healthy for Q1 teams still building the muscle. | Push toward more divergent EXPLORE. Generate more alternatives. |
 | **30–40%** | The healthy range. The team is placing real bets on real unknowns and killing what doesn't work. Evidence compounds. | Maintain. This is the signal that LEAP is operating as designed. |
 | **41–50%** | Aggressive but productive. Common in teams exploring new markets or running many Scouts. | Watch for fatigue. Ensure kills are producing learnings, not just volume. |
-| **50%+** | Too many bets are failing. Either bet sizing is wrong (Campaigns where Scouts should be) or opportunity scoring is broken. | Recalibrate TAP scoring. Check whether LEARN is being skipped. |
+| **50%+** | Too many bets are failing. Either bet sizing is wrong (Campaigns where Scouts should be) or opportunity scoring is broken. | Recalibrate scoring framework. Check whether LEARN is being skipped. |
 
 The kill is the most valuable outcome. A kill with evidence saves months. A kill without evidence is just stopping.
 
@@ -70,9 +70,9 @@ If LEARN takes more than a week, the team is over-researching before ranking. Ra
 
 ---
 
-## TAP Scoring Guide
+## Opportunity Scoring Guide (TAP Example)
 
-TAP — Total Addressable Pain. Reach × Frequency × Intensity. The score determines what happens next.
+LEAP is framework-agnostic — use TAP, ICE, RICE, 7 Powers, or custom. Below is TAP (Total Addressable Pain) as one example. The action thresholds apply regardless of framework.
 
 | TAP Score | Action | What It Means |
 |---|---|---|
@@ -136,7 +136,7 @@ What a team should achieve in the first 90 days of running LEAP. These are not a
 | Day | Milestone | Why It Matters |
 |---|---|---|
 | **Day 7** | First Scout bet resolved | Proves the team can write a hypothesis, run a small experiment, and make a ship/iterate/pivot/kill decision. The system sells itself after the first kill. |
-| **Day 14** | Opportunity map with 5+ TAP-scored opportunities | LEARN is operational. The team is ranking before researching. Comparison, not conviction, is driving prioritization. |
+| **Day 14** | Opportunity map with 5+ scored opportunities | LEARN is operational. The team is ranking before researching. Comparison, not conviction, is driving prioritization. |
 | **Day 30** | 3+ bets resolved (mix of Scout and Sprint) | The rhythm is forming. Evidence is starting to compound. The tree has enough nodes for the AI to synthesize meaningfully. |
 | **Day 45** | First kill with full evidence archive | The team has demonstrated the hardest behavior: stopping something that is not working and preserving the learning. This is the cultural inflection point. |
 | **Day 60** | Second-generation bet (a bet informed by a previous bet's evidence) | Compound context is working. The team is not starting from scratch. Each cycle is smarter than the last. |

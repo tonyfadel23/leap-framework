@@ -60,7 +60,7 @@ The problem is: what problem is worth solving, for whom, and why now?
 
 Most teams skip this. They start with a solution and work backwards to justify it. Or they do "discovery" — which means talking to five users about a feature they've already decided to build.
 
-LEARN forces ranking before research. Every opportunity is scored by TAP — Total Addressable Pain:
+LEARN forces ranking before research. Every opportunity is scored using your chosen rationalisation framework — Total Addressable Pain:
 
 **TAP = Reach x Frequency x Intensity**
 
@@ -153,7 +153,7 @@ You don't need LEAP software to start. You need the discipline.
 
 1. **Pick one goal.** Write it as a metric with a baseline and a target. Not "improve retention." Instead: "Move 30-day retention from 42% to 50%."
 
-2. **Map three opportunities by TAP.** Score each by reach, frequency, and intensity. Pick the highest-pain one. Not the most interesting one. Not the one with the best revenue model. The one with the most pain.
+2. **Map three opportunities and score them.** Score each by reach, frequency, and intensity. Pick the highest-pain one. Not the most interesting one. Not the one with the best revenue model. The one with the most pain.
 
 3. **Generate three materially different solutions.** Pre-mortem each in thirty minutes. Name the Tigers, the Paper Tigers, and the Elephants.
 

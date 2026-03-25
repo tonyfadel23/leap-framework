@@ -105,7 +105,7 @@ That distinction matters more than the acronym.
 ╚══════════════════════════════════════════════════╝
 ```
 
-**LEARN** answers: what problem is worth solving, for whom, and why now? Every opportunity is scored by TAP — Total Addressable Pain. Reach times Frequency times Intensity. Then filtered by the Customer Relationship Hierarchy: Functional, Trustworthy, Engaging, Valuable, Loved. Maslow for product. Solve the current stage before building for the next.
+**LEARN** answers: what problem is worth solving, for whom, and why now? Every opportunity is scored using your chosen rationalisation framework — Total Addressable Pain. Reach times Frequency times Intensity. Then filtered by the Customer Relationship Hierarchy: Functional, Trustworthy, Engaging, Valuable, Loved. Maslow for product. Solve the current stage before building for the next.
 
 LEARN produces a strategy document with a metric, a baseline, a target, and a scored opportunity map.
 
@@ -253,7 +253,7 @@ No tool required. No permission needed. Just discipline.
 Pick one goal. Not three. One. Write it as a metric with a baseline and a target. "Increase weekly active buyers from 12K to 15K by end of Q3." If your goal does not have a number, it is a wish.
 
 **Day 2 (Tuesday) — Map the pain.**
-List every customer problem related to that goal. Score each by TAP — Total Addressable Pain. Reach (% of segment affected) times Frequency (daily > weekly > monthly) times Intensity (abandon > frustrate > annoy > notice). Pick the highest-TAP opportunity. Write it in one sentence.
+List every customer problem related to that goal. Score each using your chosen rationalisation framework — TAP (reach × frequency × intensity), ICE, RICE, or whatever fits your context. The point is forced ranking, not the specific formula. Pick the highest-scored opportunity. Write it in one sentence.
 
 **Day 3 (Wednesday) — Check the relationship stage.**
 Apply the Customer Relationship Hierarchy: Functional, Trustworthy, Engaging, Valuable, Loved. What stage is your customer segment in? If the answer is Functional or Trustworthy, kill any solution that targets Engaging or above. Solve the current stage first.

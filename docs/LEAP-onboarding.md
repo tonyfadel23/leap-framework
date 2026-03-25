@@ -27,7 +27,7 @@ That pain is the seed. LEAP doesn't need converts. It needs a problem worth solv
 
 Pick one goal. Write it as a metric: baseline → target → deadline. Not "improve retention" — "increase 7-day retention from 22% to 30% by end of Q3."
 
-Map three opportunities. Not features. Problems. Use JTBD format: "When [trigger], I want to [job], so I can [outcome]." Score each by TAP. Filter by Customer Relationship Hierarchy.
+Map three opportunities. Not features. Problems. Use JTBD format: "When [trigger], I want to [job], so I can [outcome]." Score each using your chosen framework. Filter by Customer Relationship Hierarchy.
 
 **The engineer's role:** Engineers see systems, not surfaces. They spot structural constraints PMs miss. "We can't personalize because the data model doesn't support preferences" — that's an opportunity the PM would never find in interviews.
 
@@ -123,7 +123,7 @@ Engineers who understand these three concepts ask the PM: "What's the prove crit
 Three skills to practice:
 
 ### 1. Opportunity mapping (LEARN)
-Take your current roadmap. For every feature, ask: "What customer problem does this solve?" Rewrite each as an opportunity in JTBD format. Score by TAP. Half your roadmap is solutions looking for problems.
+Take your current roadmap. For every feature, ask: "What customer problem does this solve?" Rewrite each as an opportunity in JTBD format. Score using your chosen framework. Half your roadmap is solutions looking for problems.
 
 ### 2. Pre-mortem thinking (EXPLORE)
 Take your favorite idea. Assume it failed. Write three reasons why. Ask: "Which failures would we only discover after building?" That's your riskiest assumption. Test it first.

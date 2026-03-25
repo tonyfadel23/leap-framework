@@ -111,9 +111,9 @@ I use the analogy of a horse carriage versus an automobile. You can put a motor 
 
 **Tony:** LEAP scales down to Scout bets. That's the whole point of bet sizing.
 
-A Scout is hours to two days. One hypothesis, one signal. You don't need a dedicated research team. You don't need a two-week sprint. You need one goal, one opportunity scored by TAP, one hypothesis, and one kill criteria. That's it.
+A Scout is hours to two days. One hypothesis, one signal. You don't need a dedicated research team. You don't need a two-week sprint. You need one goal, one opportunity scored using your chosen rationalisation framework, one hypothesis, and one kill criteria. That's it.
 
-Monday morning. Pick one goal. Write it as a metric with a baseline and a target. Map three opportunities by TAP — pick the highest-pain one. Generate three solutions, pre-mortem each in thirty minutes. Build a Scout bet. Define the hypothesis and the kill criteria. Resolve it by Friday.
+Monday morning. Pick one goal. Write it as a metric with a baseline and a target. Map three opportunities and score them — pick the highest-pain one. Generate three solutions, pre-mortem each in thirty minutes. Build a Scout bet. Define the hypothesis and the kill criteria. Resolve it by Friday.
 
 A team of three PMs can do that. A solo PM can do that. The AI handles the synthesis, the prototype generation, the quality scoring. The PM makes the calls. The bet card takes ten minutes to generate. The Scout resolves in a day or two. That's LEAP at minimum viable scale.
 

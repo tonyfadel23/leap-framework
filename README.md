@@ -105,7 +105,7 @@ SVG versions also available in the [`visuals/`](visuals/) directory.
 ## Quick Start
 
 1. Pick one goal. Write it as a metric: baseline → target → deadline.
-2. Map three opportunities by TAP. Pick the highest-pain one.
+2. Map three opportunities. Score each using your chosen framework. Pick the highest-scored one.
 3. Generate three solutions. Pre-mortem each in 30 minutes.
 4. Build a Scout bet. Define the hypothesis and the kill criteria.
 5. Resolve it by Friday.
